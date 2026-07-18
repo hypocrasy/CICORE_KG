@@ -2,7 +2,7 @@
 
 仅查看：无需环境配置
 
-功能开发人员：推荐安装Nodejs (https://nodejs.org/en/download）选择v22.23.1LTS版本，下方的.msi一键安装即可。
+功能开发人员：推荐安装Nodejs (https://nodejs.org/en/download) 选择v22.23.1LTS版本，下方的.msi一键安装即可。
 
 
 
